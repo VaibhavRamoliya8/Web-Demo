@@ -1,2 +1,2 @@
-# Web-Demo
-This is Demo For Web Development 
+# Git-demo
+This is Demo For Git & Github.
